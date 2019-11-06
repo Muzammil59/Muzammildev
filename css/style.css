@@ -8329,7 +8329,7 @@ h1, h2, h3, h4, h5,
           .owl-carousel.home-slider .slider-item .slider-text {
             text-align: center; } }
         .owl-carousel.home-slider .slider-item .slider-text .one-third {
-          width: 80%;
+          width: 70%;
           position: relative;
           height: 650px;
           z-index: -1;
